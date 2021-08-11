@@ -1,0 +1,18 @@
+// 1ª Etapa - 5ª Classe - Oitavas
+{ stage: '2021-1', category: '5-classe', round: 'oitavas-final', order: 1, player1: 'Manoel Domingos', scorePlayer1: 0, player2: 'BYE', scorePlayer2: 0 },
+{ stage: '2021-1', category: '5-classe', round: 'oitavas-final', order: 2, player1: 'Laercio Nunes', scorePlayer1: 0, player2: 'Alisson Manoel', scorePlayer2: 0 },
+{ stage: '2021-1', category: '5-classe', round: 'oitavas-final', order: 3, player1: 'José Raimundo', scorePlayer1: 0, player2: 'BYE', scorePlayer2: 0 },
+{ stage: '2021-1', category: '5-classe', round: 'oitavas-final', order: 4, player1: 'Hivis da Costa', scorePlayer1: 0, player2: 'Nilson Vasconcelos', scorePlayer2: 0 },
+{ stage: '2021-1', category: '5-classe', round: 'oitavas-final', order: 5, player1: 'Cleiton Maia', scorePlayer1: 0, player2: 'Geferson Wanderley', scorePlayer2: 0 },
+{ stage: '2021-1', category: '5-classe', round: 'oitavas-final', order: 6, player1: 'BYE', scorePlayer1: 0, player2: 'Evandro Moreira', scorePlayer2: 0 },
+{ stage: '2021-1', category: '5-classe', round: 'oitavas-final', order: 7, player1: 'Antonio Carlos', scorePlayer1: 0, player2: 'Eric Quintela', scorePlayer2: 0},
+{ stage: '2021-1', category: '5-classe', round: 'oitavas-final', order: 8, player1: 'BYE', scorePlayer1: 0, player2: 'Denilson Alves', scorePlayer2: 0 },
+// 1ª Etapa - 5ª Classe - Quartas
+{ stage: '2021-1', category: '5-classe', round: 'quartas-final', order: 1, player1: 'Manoel Domingos', scorePlayer1: 0, player2: '', scorePlayer2: 0},
+{ stage: '2021-1', category: '5-classe', round: 'quartas-final', order: 2, player1: 'José Leão', scorePlayer1: 0, player2: '', scorePlayer2: 0},
+{ stage: '2021-1', category: '5-classe', round: 'quartas-final', order: 3, player1: '', scorePlayer1: 0, player2: 'Evandro Moreira', scorePlayer2: 0},
+{ stage: '2021-1', category: '5-classe', round: 'quartas-final', order: 4, player1: '', scorePlayer1: 0, player2: 'Denilson Alves', scorePlayer2: 0},
+// 1ª Etapa - 5ª Classe - Semis e Final
+{ stage: '2021-1', category: '5-classe', round: 'semi-final', order: 1, player1: '', scorePlayer1: 0, player2: '', scorePlayer2: 0},
+{ stage: '2021-1', category: '5-classe', round: 'semi-final', order: 2, player1: '', scorePlayer1: 0, player2: '', scorePlayer2: 0},
+{ stage: '2021-1', category: '5-classe', round: 'final', order: 1, player1: '', scorePlayer1: 0, player2: '', scorePlayer2: 0}
