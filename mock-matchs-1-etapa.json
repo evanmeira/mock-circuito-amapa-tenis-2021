@@ -3,47 +3,47 @@
          "stage": "2021-1",
          "category": "5-classe",
          "round": "oitavas-final",
-         "order": "1",
+         "order": 1,
          "player1": "Manoel Domingos",
-         "scorePlayer1": "0",
+         "scorePlayer1": 0,
          "player2": "BYE",
-         "scorePlayer2": "0"
+         "scorePlayer2": 0
       },
       {
          "stage": "2021-1",
          "category": "5-classe",
          "round": "oitavas-final",
-         "order": "2",
+         "order": 2,
          "player1": "Laercio Nunes",
-         "scorePlayer1": "0",
+         "scorePlayer1": 0,
          "player2": "Alisson Manoel",
-         "scorePlayer2": "0"
+         "scorePlayer2": 0
       },
       {
          "stage": "2021-1",
          "category": "5-classe",
          "round": "oitavas-final",
-         "order": "3",
+         "order": 3,
          "player1": "José Raimundo",
-         "scorePlayer1": "0",
+         "scorePlayer1": 0,
          "player2": "BYE",
-         "scorePlayer2": "0"
+         "scorePlayer2": 0
       },
       {
          "stage": "2021-1",
          "category": "5-classe",
          "round": "oitavas-final",
-         "order": "4",
+         "order": 4,
          "player1": "Hivis da Costa",
-         "scorePlayer1": "0",
+         "scorePlayer1": 0,
          "player2": "Nilson Vasconcelos",
-         "scorePlayer2": "0"
+         "scorePlayer2": 0
       },
       {
          "stage": "2021-1",
          "category": "5-classe",
          "round": "oitavas-final",
-         "order": "5",
+         "order": 5,
          "player1": "Cleiton Maia",
          "scorePlayer1": 0,
          "player2": "Geferson Wanderley",
