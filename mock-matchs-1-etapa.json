@@ -13,4 +13,3 @@
 { stage: '2021-1', category: '5-classe', round: 'semi-final', order: 1, player1: '', scorePlayer1: 0, player2: '', scorePlayer2: 0},
 { stage: '2021-1', category: '5-classe', round: 'semi-final', order: 2, player1: '', scorePlayer1: 0, player2: '', scorePlayer2: 0},
 { stage: '2021-1', category: '5-classe', round: 'final', order: 1, player1: '', scorePlayer1: 0, player2: '', scorePlayer2: 0}
-{ stage: '2022-1', category: '5-classe', round: 'final', order: 1, player1: '', scorePlayer1: 0, player2: '', scorePlayer2: 0}
