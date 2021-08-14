@@ -1,0 +1,11 @@
+[
+  {"id": "1-classe", "description": "1ª Classe"},
+  {"id": "2-classe", "description": "2ª Classe"},
+  {"id": "3-classe", "description": "3ª Classe"},
+  {"id": "4-classe", "description": "4ª Classe"},
+  {"id": "5-classe", "description": "5ª Classe"},
+  {"id": "feminino", "description": "Feminio"},
+  {"id": "duplas", "description": "Duplas"},
+  {"id": "master", "description": "Master"},
+  {"id": "cadeirante", "description": "Cadeirante"},
+]
